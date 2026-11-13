@@ -1,0 +1,10 @@
+{
+  "id": "better-html-reader",
+  "name": "BetterHTMLReader",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Renders .html files and htmlrender code blocks with full CSS and JavaScript support in a secure sandboxed iframe.",
+  "author": "Bartłomiej Komendarczuk",
+  "authorUrl": "https://github.com/BElluu",
+  "isDesktopOnly": false
+}
