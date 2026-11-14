@@ -19,6 +19,8 @@ An [Obsidian](https://obsidian.md) plugin that displays HTML properly, with its 
 ```
 ````
 
+> The opening ```` ```htmlrender ```` and the closing ```` ``` ```` must each be on their own line, with the HTML on the lines between them. Putting everything on one line is not a valid code block and will not render.
+
 ## Installation
 
 ### From the community plugin directory
